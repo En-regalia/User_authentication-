@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/yourusername/User_authentication-](https://github.com/En-regalia/User_authentication-.git
 cd your-repo-name
 ```
 
@@ -32,7 +32,7 @@ cd your-repo-name
 
 ### Activate the Virtual Environment
 
-- On Windows:
+On Windows:
 
 ```venv\Scripts\activate```
 
@@ -60,7 +60,8 @@ flask db upgrade
 The application will be available at http://127.0.0.1:5000.
 
 ## Project Structure
-
+_Currently Projected. Still Work in progress_
+```
 User_authentication-
 │
 ├── app/
@@ -84,7 +85,7 @@ User_authentication-
 ├── config.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Usage
 
 ### Register
